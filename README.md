@@ -1,4 +1,4 @@
-Hello, I’m Elena Malgicheva a full stack developer from Raleigh, NC. 
+Hello, I’m Elena Malgicheva a full stack developer from Cary, NC. 
 I’m currently taking a 32 week bootcamp in MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN
 
 <!---
